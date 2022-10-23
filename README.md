@@ -1,7 +1,7 @@
-[![MasterHead](https://www.rawpixel.com/image/395933/free-illustration-vector-developer-construction-web)]
+![MasterHead](https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdnByb2plY3RvbGQxLWF1bS01NDJfMi5qcGc.jpg)
 <h1 align="center">Hi 👋, I'm Santosh Kumar Mishra</h1>
 <h3 align="center">A passionate java developer from India</h3>
-<img align= "right " alt="" width="400" src="https://tenor.com/view/uwu-cat-gif-26479500"/>
+<img align= "right" alt="coding" width="400" src="https://media.tenor.com/sfp8nf9UrZcAAAAC/uwu-cat.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakumnt006&label=Profile%20views&color=0e75b6&style=flat" alt="sakumnt006" /> </p>
 
