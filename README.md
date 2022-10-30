@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakumnt006&label=Profile%20views&color=0e75b6&style=flat" alt="sakumnt006" /> </p>
 
-- 🔭 I’m currently working on **Hand Gestures Recognition Gloves**
+- #🔭 I’m currently working on **Hand Gestures Recognition Gloves**
 
 - 🌱 I’m currently learning **Spring, JSON**
 
