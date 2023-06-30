@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring, JSON**
 
-- 💬 Ask me about **Java, JDBC, SQL, MySQL and JSP**
+- 💬 Ask me about **Java, JDBC, SQL, MySQL, JSP, Talend, PostgreSQL, AZURE DATA FACTORY**
 
 - 📫 How to reach me **santoshkm006@gmail.com**
 
